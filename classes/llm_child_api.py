@@ -1,4 +1,4 @@
-from api import Api
+from classes.api import Api
 import requests
 import os
 
