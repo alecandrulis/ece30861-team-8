@@ -3,3 +3,4 @@ datasets
 huggingface-hub
 pandas
 pylint
+coverage
